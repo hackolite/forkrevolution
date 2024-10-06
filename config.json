@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath":"https://github.com/hackolite/forkrevolution/blob/main/ingredient_vectors.tsv",
-      "metadataPath": "https://github.com/hackolite/forkrevolution/blob/main/ingredient_metadata.tsv"
+      "tensorPath":"https://githubusercontent.com/hackolite/forkrevolution/blob/main/ingredient_vectors.tsv",
+      "metadataPath": "https://githubusercontent.com/hackolite/forkrevolution/blob/main/ingredient_metadata.tsv"
     }
   ]
 }
