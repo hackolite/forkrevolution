@@ -3,8 +3,8 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        1000,
-        50
+        500,
+        100
       ],
       "tensorPath":"https://raw.githubusercontent.com/hackolite/forkrevolution/refs/heads/main/ingredient.tsv",
       "metadataPath": "https://raw.githubusercontent.com/hackolite/forkrevolution/refs/heads/main/ingredient_metadata.tsv"
